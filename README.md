@@ -1,13 +1,5 @@
 # JARVIS (Just a Rather Very Intelligent System)
 
-#### This was my attempt to make a voice assistant similar to JARVIS (in iron man movie)
-
-#### Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
-
-## Built with
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
 It can do a lot of cool things, some of them being:
 
 - Greet user
@@ -78,3 +70,10 @@ To run this program you will require a bunch of API keys. Register your API key 
   - Make a new file in features folder, write the feature's function you want to include
   - Add the function's definition to **init**.py
   - Add the voice commands through which you want to invoke the function
+
+
+
+It was in my Mini Project - II(Semester-5)
+Project Synopsis - https://drive.google.com/file/d/1P85K2g96QAKk-4wKkhlWhwc_HhlnNe90/view?usp=drive_link
+Project Report - https://drive.google.com/file/d/1_AFPg2wBzxGqvZ2dalO8to20asuNPYut/view?usp=drive_link
+Project PPT - https://docs.google.com/presentation/d/1TQComlY8cToiARaw5kKocZVcn6FtAZHJ/edit?usp=sharing&ouid=109226689315072486930&rtpof=true&sd=true
