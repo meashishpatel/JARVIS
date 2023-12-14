@@ -74,6 +74,6 @@ To run this program you will require a bunch of API keys. Register your API key 
 
 
 It was in my Mini Project - II(Semester-5)
-Project Synopsis - https://drive.google.com/file/d/1P85K2g96QAKk-4wKkhlWhwc_HhlnNe90/view?usp=drive_link
-Project Report - https://drive.google.com/file/d/1_AFPg2wBzxGqvZ2dalO8to20asuNPYut/view?usp=drive_link
-Project PPT - https://docs.google.com/presentation/d/1TQComlY8cToiARaw5kKocZVcn6FtAZHJ/edit?usp=sharing&ouid=109226689315072486930&rtpof=true&sd=true
+- Project Synopsis - https://drive.google.com/file/d/1P85K2g96QAKk-4wKkhlWhwc_HhlnNe90/view?usp=drive_link
+- Project Report - https://drive.google.com/file/d/1_AFPg2wBzxGqvZ2dalO8to20asuNPYut/view?usp=drive_link
+- Project PPT - https://docs.google.com/presentation/d/1TQComlY8cToiARaw5kKocZVcn6FtAZHJ/edit?usp=sharing&ouid=109226689315072486930&rtpof=true&sd=true
